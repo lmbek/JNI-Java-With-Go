@@ -1,5 +1,5 @@
 #include <jni.h>
-#include "MyJava.h"
+#include "beksoft_webview_2023_MyJava.h"
 #include "libGo.h"
 
 // Java mapping
